@@ -1,7 +1,7 @@
 # 📊 Server Log Data Extraction and User History Database Update, By GUVI.
 
-## 📖 Project Overview  
-This project extracts email addresses and timestamps from a server log dataset, transforms the data into a structured format, and loads it into MongoDB and MySQL for analysis. The system helps analyze user activity history efficiently.
+## 📖 Project Overview 
+The "Server Log Data Extraction and User History Database Update" project automates the extraction of email addresses and timestamps from server log files. Using Python and Regex, the extracted data is stored in MongoDB and later transferred to MySQL for structured analysis. The system helps track user activity trends, providing insights such as unique email addresses, email frequency per day, and domain-based email distribution.
 
 ## 🚀 Objectives  
 - Extract email and timestamps from raw server logs.
